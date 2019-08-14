@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='latin-1'?>
+<appinfo integration-version="CatiaV5 10.4.0.1">
+  <occurrences>
+    <occurrence bom-relevant="yes" id="COMPRESSION SPRING.1" name="COMPRESSION SPRING.1" sortval="0" suppressed="no">
+      <cadreference path="__1411714S01_3D_F_001-00.CATPart" />
+      <tmatrix>
+        <entry id="1" value="1" />
+        <entry id="10" value="0" />
+        <entry id="11" value="1" />
+        <entry id="12" value="33.0651600646973" />
+        <entry id="13" value="0" />
+        <entry id="14" value="0" />
+        <entry id="15" value="0" />
+        <entry id="16" value="1" />
+        <entry id="2" value="0" />
+        <entry id="3" value="0" />
+        <entry id="4" value="4.11160217481665E-05" />
+        <entry id="5" value="0" />
+        <entry id="6" value="1" />
+        <entry id="7" value="0" />
+        <entry id="8" value="7.93001079559326" />
+        <entry id="9" value="0" />
+      </tmatrix>
+    </occurrence>
+    <occurrence bom-relevant="yes" id="DISC.1" name="DISC.1" sortval="1" suppressed="no">
+      <cadreference path="__1411713S01_3D_F_001-00.CATPart" />
+      <tmatrix>
+        <entry id="1" value="1" />
+        <entry id="10" value="0" />
+        <entry id="11" value="1" />
+        <entry id="12" value="31.4351600646973" />
+        <entry id="13" value="0" />
+        <entry id="14" value="0" />
+        <entry id="15" value="0" />
+        <entry id="16" value="1" />
+        <entry id="2" value="0" />
+        <entry id="3" value="0" />
+        <entry id="4" value="4.11160217481665E-05" />
+        <entry id="5" value="0" />
+        <entry id="6" value="1" />
+        <entry id="7" value="0" />
+        <entry id="8" value="7.93001079559326" />
+        <entry id="9" value="0" />
+      </tmatrix>
+    </occurrence>
+    <occurrence bom-relevant="yes" id="GASKET.1" name="GASKET.1" sortval="2" suppressed="no">
+      <cadreference path="__1411712S01_3D_F_001-00.CATPart" />
+      <tmatrix>
+        <entry id="1" value="1" />
+        <entry id="10" value="0" />
+        <entry id="11" value="1" />
+        <entry id="12" value="29.7351600646973" />
+        <entry id="13" value="0" />
+        <entry id="14" value="0" />
+        <entry id="15" value="0" />
+        <entry id="16" value="1" />
+        <entry id="2" value="0" />
+        <entry id="3" value="0" />
+        <entry id="4" value="4.11160217481665E-05" />
+        <entry id="5" value="0" />
+        <entry id="6" value="1" />
+        <entry id="7" value="0" />
+        <entry id="8" value="7.93001079559326" />
+        <entry id="9" value="0" />
+      </tmatrix>
+    </occurrence>
+    <occurrence bom-relevant="yes" id="VALVE COVER.1" name="VALVE COVER.1" sortval="3" suppressed="no">
+      <cadreference path="__1411711S01_3D_F_001-00.CATPart" />
+      <tmatrix>
+        <entry id="1" value="1" />
+        <entry id="10" value="0" />
+        <entry id="11" value="1" />
+        <entry id="12" value="27.0351600646973" />
+        <entry id="13" value="0" />
+        <entry id="14" value="0" />
+        <entry id="15" value="0" />
+        <entry id="16" value="1" />
+        <entry id="2" value="0" />
+        <entry id="3" value="0" />
+        <entry id="4" value="4.11160217481665E-05" />
+        <entry id="5" value="0" />
+        <entry id="6" value="1" />
+        <entry id="7" value="0" />
+        <entry id="8" value="7.93001079559326" />
+        <entry id="9" value="0" />
+      </tmatrix>
+    </occurrence>
+  </occurrences>
+  <projectenv value="mh" />
+  <properties>
+    <property id="Beschreibung" value="" />
+    <property id="CAD-Release" value="19" />
+    <property id="CAD-ServicePack" value="9" />
+    <property id="CAD-Version" value="5" />
+    <property id="CatiaV5-Teilenummer" value="Valve Assembly" />
+    <property id="Datei-Version" value="5.19.9.106" />
+    <property id="Definition" value="" />
+    <property id="Material" value="" />
+    <property id="Nomenklatur" value="" />
+    <property id="Quelle" value="0" />
+    <property id="Überarbeitung" value="" />
+  </properties>
+</appinfo>
